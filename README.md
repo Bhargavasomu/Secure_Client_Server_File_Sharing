@@ -3,6 +3,9 @@ This is an implementation of the Secure File Sharing using
 `Diffe-Hellman key exchange` and `Caesar Cipher`. The users would first have to create an account with the server by using the `CREATE` command. Then they can download a file from the server by using the command 
 `DOWNLOAD`.
 
+### Requirements
+Needs `python` versions of **3.6** or above to run the code.
+
 ### Client
 ```
 python client.py
